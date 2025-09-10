@@ -12,7 +12,7 @@
 
 - ✨ Ex-Trainee at NTI Summer Internship **"Embedded Systems"**
 
-- 💻 I’m currently learning **Verilog, ASIC flow**
+- 💻 I’m currently learning **Verilog, ASIC flow , Verification**
 
 - 🤝 I’m looking to collaborate on **Digital IC design, ASIC and Embedded Systems projects**
 
@@ -69,9 +69,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=اسم_المستخدم&show_icons=true&theme=tokyonight" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=اسم_المستخدم&layout=compact&theme=tokyonight" height="180px"/>
-
+ <img src="https://github-readme-stats.vercel.app/api?username=Ahmedellmallah100&show_icons=true&theme=tokyonight" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedellmallah100&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
 --- 
