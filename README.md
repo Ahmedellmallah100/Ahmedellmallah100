@@ -33,16 +33,11 @@
     <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp--v1.png" height="30" width="40" alt="WhatsApp"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:ahmedellmallah@gmail.com" target="_blank" rel="noopener">
+  <a href="ahmedellmallah@gmail.com" target="_blank" rel="noopener">
     <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35" alt="Email"/>
   </a>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Resume-Online-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Resume Badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Certificates-Available-success?style=for-the-badge&logo=google-drive" alt="Certificates Badge"/>
-</p>
 
 ---
 
@@ -75,13 +70,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- **FPGA PWM Controller** - Implemented real-time PWM signal generation using Verilog
-- **Embedded System Monitoring Tool** - Python/C application for board diagnostics
-- **ASIC DSP Module Design** - RTL design and verification using ModelSim & Vivado
-
----
 
 ## 📊 GitHub Stats
 
