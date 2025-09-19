@@ -30,11 +30,11 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/201025724159" target="_blank" rel="noopener">
-    <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp--v1.png" height="45" width="40" alt="WhatsApp"/>
+    <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp--v1.png" height="40" width="40" alt="WhatsApp"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ahmedellmallah@gmail.com" target="_blank" rel="noopener">
-    <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="45" alt="Email"/>
+    <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="40" alt="Email"/>
   </a>
 </p>
 
