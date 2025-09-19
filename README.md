@@ -41,7 +41,7 @@
 ## 🛠 Skills  
 
 ### 💻 Languages  
-<p align="center">
+<p align="left">
   <code><img src="verilog.png" alt="Verilog" width="40" height="40"/></code>
   <code><img src="vhdl.png" alt="VHDL" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /></code>
@@ -50,7 +50,7 @@
 </p>  
 
 ### ⚙ Tools & Platforms  
-<p align="center">
+<p align="left">
   <code><img src="QuestaSim.png" alt="QuestaSim" width="40" height="40"/></code>
   <code><img src="Questa-Lint.png" alt="Questa Lint" width="40" height="40"/></code>
   <code><img src="Vivado.png" alt="Vivado" width="40" height="40"/></code>
