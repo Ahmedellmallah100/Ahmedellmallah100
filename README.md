@@ -16,7 +16,7 @@
 - 💻 Currently learning **Verilog, ASIC Flow, and Verification**
 - 🤝 Seeking collaboration on **Digital IC Design, ASIC, and Embedded Systems Projects**
 - 🏅 [Certificates](https://drive.google.com/drive/folders/14-u85-Ebpf3BUTBbFtHe7nY7Fq0dF-lw?usp=drive_link)
-- 📄 [Curriculum Vitae](https://drive.google.com/drive/folders/1u8ybywlZaPokYGkHRuHXSvoQmTv3hxsn?usp=drive_link)
+- 📄 [CV](https://drive.google.com/drive/folders/1u8ybywlZaPokYGkHRuHXSvoQmTv3hxsn?usp=drive_link)
 - 📧 Email: **ahmedellmallah@gmail.com**
 - 📱 WhatsApp: **+201025724159**
 
