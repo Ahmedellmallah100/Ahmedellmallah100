@@ -33,10 +33,11 @@
     <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp--v1.png" height="30" width="40" alt="WhatsApp"/>
   </a>
   &nbsp;&nbsp;
-  <a href="ahmedellmallah@gmail.com" target="_blank" rel="noopener">
+  <a href="mailto:ahmedellmallah@gmail.com" target="_blank" rel="noopener">
     <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35" alt="Email"/>
   </a>
 </p>
+
 
 
 ---
