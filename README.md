@@ -31,6 +31,9 @@
   <a href="https://wa.me/201025724159" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp--v1.png" height="30" width="40" />
   </a>
+  <a href="ahmedellmallah@gmail.com"> <!-- Gmail -->
+      <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
+    </a>&nbsp;
 </p>
 
 ---
