@@ -28,16 +28,15 @@
 
 ## 🌐 Connect with Me  
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ahmed-ellmallah-86883b341/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="0" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://wa.me/201025724159" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp--v1.png" height="30" width="40" />
   </a>
-</p>  
+</p>
 
----
 
 ## 🛠 Skills  
 
