@@ -75,11 +75,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedellmallah100&show_icons=true&theme=tokyonight" height="180px" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedellmallah100&layout=compact&theme=tokyonight" height="180px" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedellmallah100&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedellmallah100&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
 ---
+
 
 ## 👀 Profile Views
 
