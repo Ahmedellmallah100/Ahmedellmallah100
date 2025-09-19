@@ -1,32 +1,28 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elmallah</h1>
 <h3 align="center">Digital IC Design, ASIC & Embedded Systems Engineer</h3>
 
-<p align="center">
-  <!-- You can put your logo here -->
-  <!-- <img src="your-logo.png" alt="Ahmed Elmallah Logo" width="120"/> -->
-</p>
+<!-- Custom Banner (Optional for extra visual appeal) -->
+<!-- <p align="center"><img src="your-banner.png" alt="Ahmed Elmallah Banner" width="100%"/></p> -->
 
-## About me :
+---
 
-<picture> <img align="right" src="https://clipart-library.com/img/2091643.gif" width="300px"> </picture>
+## 📖 About Me
+
+<picture>
+  <img align="right" src="https://clipart-library.com/img/2091643.gif" width="300px">
+</picture>
 
 - ✨ Ex-Trainee at NTI Summer Internship **"Embedded Systems"**
-
-- 💻 I’m currently learning **Verilog, ASIC flow , Verification**
-
-- 🤝 I’m looking to collaborate on **Digital IC design, ASIC and Embedded Systems projects**
-
-- 📌 My Certificates: [View here](https://drive.google.com/drive/folders/14-u85-Ebpf3BUTBbFtHe7nY7Fq0dF-lw?usp=drive_link)
-
-- 📄 My CV: [View here](https://drive.google.com/drive/folders/1u8ybywlZaPokYGkHRuHXSvoQmTv3hxsn?usp=drive_link)
-
-- 📢 Reach me at: **ahmedellmallah@gmail.com**
-
+- 💻 Currently learning **Verilog, ASIC flow, and Verification**
+- 🤝 Looking to collaborate on **Digital IC design, ASIC, and Embedded Systems projects**
+- 📌 Certificates: [View here](https://drive.google.com/drive/folders/14-u85-Ebpf3BUTBbFtHe7nY7Fq0dF-lw?usp=drive_link)
+- 📄 CV: [View here](https://drive.google.com/drive/folders/1u8ybywlZaPokYGkHRuHXSvoQmTv3hxsn?usp=drive_link)
+- 📢 Email: **ahmedellmallah@gmail.com**
 - 📱 WhatsApp: **+201025724159**
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmed-ellmallah-86883b341/" target="_blank">
@@ -37,10 +33,12 @@
   </a>
 </p>
 
+---
 
-## 🛠 Skills  
+## 🛠 Skills
 
-### 💻 Languages  
+### 💻 Languages
+
 <p align="left">
   <code><img src="verilog.png" alt="Verilog" width="40" height="40"/></code>
   <code><img src="vhdl.png" alt="VHDL" width="40" height="40"/></code>
@@ -49,7 +47,8 @@
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></code>
 </p>  
 
-### ⚙ Tools & Platforms  
+### ⚙ Tools & Platforms
+
 <p align="left">
   <code><img src="QuestaSim.png" alt="QuestaSim" width="40" height="40"/></code>
   <code><img src="Questa-Lint.png" alt="Questa Lint" width="40" height="40"/></code>
@@ -65,16 +64,23 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Ahmedellmallah100&show_icons=true&theme=tokyonight" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedellmallah100&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedellmallah100&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedellmallah100&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
---- 
-<h3 align="center">👀 Profile Views</h3>
+---
+
+## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ahmed-Elmallah&style=for-the-badge" alt="Profile Views" />
 </p>
+
+---
+
+<!-- Add this section for dynamism & credibility -->
+_Last updated: September 2025_  
+
